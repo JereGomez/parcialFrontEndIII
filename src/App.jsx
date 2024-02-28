@@ -8,8 +8,8 @@ import Form from './components/Form'
 function App() {
   return (
     <>
+    <h1>Parcial Jeremias Gomez Giglio</h1>
       <Form></Form>
-      <Card></Card>
     </>
   )
 }
